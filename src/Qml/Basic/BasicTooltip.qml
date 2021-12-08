@@ -8,7 +8,7 @@ ToolTip {
         text: basicTooltip.text
     }
     background: Rectangle {
-        color: CusConfig.tipBackgroundColor
-        border.color: CusConfig.tipBorderColor
+        color: "blue"
+        border.color:"#767676"
     }
 }

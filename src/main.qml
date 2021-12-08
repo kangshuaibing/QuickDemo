@@ -83,7 +83,7 @@ ApplicationWindow
     }
 
     Component.onCompleted: {
-        console.log("textColor1",CS.textColor1)
+        console.log("textColor1",CS.textColor.normal)
     }
 }
 

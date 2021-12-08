@@ -58,7 +58,7 @@
         <file>Qml/Basic/BasicButton.qml</file>
         <file>Qml/Contents/RollingText.qml</file>
         <file>Qml/Basic/BasePopup.qml</file>
-        <file>Qml/Contents/CricleButton.qml</file>
+        <file>Qml/Contents/Buttons.qml</file>
         <file>Qml/Contents/ProgressBarWithButton.qml</file>
     </qresource>
 </RCC>

@@ -3,7 +3,7 @@ pragma Singleton
 import QtQuick 2.0
 
 Item {
-
+    id: riit
     property color line: "#007AFE"
 
 //    property alias themeColor : themeColor
@@ -20,11 +20,11 @@ Item {
     property alias textColor : textColor
     QtObject {
         id: textColor
-        property string textColor : "5C6873"
-        property string textColor1 : "#00" + textColor
+        property string normal: "#5C6873"
+        property color light: "#5C6873"
     }
     Component.onCompleted: {
-        console.log("textColor1",textColor.textColor1)
+        console.log("normal",textColor.normal)
     }
 
 }

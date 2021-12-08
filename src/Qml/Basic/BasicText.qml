@@ -10,5 +10,4 @@ Text {
     font.pixelSize: PS.fontPixel
     elide: Text.ElideRight
     color: PS.textColor
-//    renderType: Text.NativeRendering
 }

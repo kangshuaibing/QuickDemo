@@ -5,5 +5,6 @@ find_package(Qt5 COMPONENTS Widgets Qml Quick REQUIRED)
 
 # Directory with the source code
 add_subdirectory(src)
+##add_subdirectory(config)
 
 

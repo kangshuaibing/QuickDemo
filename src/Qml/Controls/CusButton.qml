@@ -8,7 +8,6 @@ Button {
     height: PS.fixedHeight
     width: PS.fixedHeight
 
-
     property alias tipText: toolTip.text
     property alias tipItem: toolTip
     property alias tipVisible: toolTip.visible
